@@ -13,7 +13,7 @@
      *Showing the details of all the items in the inventory
    The user can access all these features using the option number and ID of each item in the inventory
 
->>For a particular item , the user can store the name of the item , its manufacture date , price and the quantity .
+>>For a particular item , the user can store the name of the item , its manufacture date , price and the quantity.
   Four different files have been used for each of these characteristics of an item.
 
 
