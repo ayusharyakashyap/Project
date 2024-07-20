@@ -1,9 +1,9 @@
-                                                 STORE INVENTORY MANAGEMENT SYSTEM
+# STORE INVENTORY MANAGEMENT SYSTEM
 
 
-AIM: The main aim of this project is to provide a basic interface for managing the stocks , using c language. 
+# AIM: The main aim of this project is to provide a basic interface for managing the stocks , using c language. 
 
-DESCRIPTION:
+# DESCRIPTION:
 >> The main features which this system offers are 
      *Adding new items to the inventory
      *Deleting an item from the inventory
@@ -41,14 +41,3 @@ DESCRIPTION:
   It prints each of the characteristics of all the items in the inventory.
 
 * Finally , if the user wants to exit , 0 must be given as the input. For this , sleep() function is used . Which exits the program if 0 is the input.
-	
-
-  THANK YOU
-
-  TEAM MEMBERS:
-      Anshul IMT2022551
-      Chinmay IMT2022561
-      Uttam IMT2022524
-      Harshvardhan IMT2022515
-      Rishik IMT2022582
-      Ayush IMT2022129
